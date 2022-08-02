@@ -14,7 +14,7 @@ Hi 👋, I'm Jesús Moreno.</h1>
 Open to work, focused and seriously committed to learning.
 With knowledge in:
 
--React
+🌱 React
 -Redux
 -Typescript
 -Javascript
