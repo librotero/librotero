@@ -13,23 +13,21 @@ Hi 👋, I'm Jesús Moreno.</h1>
 
 Open to work, focused and seriously committed to learning.
 With knowledge in:
+<p aling="center">Redux</p>
+<p aling="center">Typescript</p>
+<p aling="center">Javascript</p>
+<p aling="center">Sequelize</p>
+<p aling="center">Express</p>
+<p aling="center">MongoDB</p>
+<p aling="center">NodeJS</p>
+<p aling="center">HTML5</p>
+<p aling="center">CSS3</p>
+<p aling="center">Bootstrap</p>
+<p aling="center">Material-UI</p>
+<p aling="center">Material-Design</p>
+<p aling="center">Sass</p>
 
-🌱 React
-🌱 Redux
--Typescript
--Javascript
--Sequelize
--Express
--MongoDB
--NodeJS
--HTML5
--CSS3
--Bootstrap
--Material-UI
--Material-Design
--Sass
-
-entre otras. 
+<p aling="center"> entre otras</p>
 
 
 🌱 I’m currently learning Advanced Full-Stack Development with JavaScript and TypeScript.
@@ -39,4 +37,4 @@ entre otras.
 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/jes%C3%BAs-moreno-garc%C3%ADa-154460136/">Linkedin</a>
-morenogarciajesuseduardo@gmail.com
+<p>morenogarciajesuseduardo@gmail.com</p>
