@@ -2,13 +2,34 @@
 <img src="R.jpg" alt="hola">
 </p>
 
-<h1 aling="center">Hi, my name is Jesus Moreno!</h1>
+<h1 aling="center">
+Hi 👋, I'm Jesús Moreno.</h1>
 <hr/>
 <p aling="center">
 26-year-old passionate about technology, design and personal and professional development.
 </p>
 
 
+
+Open to work, focused and seriously committed to learning.
+With knowledge in:
+
+-React
+-Redux
+-Typescript
+-Javascript
+-Sequelize
+-Express
+-MongoDB
+-NodeJS
+-HTML5
+-CSS3
+-Bootstrap
+-Material-UI
+-Material-Design
+-Sass
+
+entre otras. 
 
 
 🌱 I’m currently learning Advanced Full-Stack Development with JavaScript and TypeScript.
