@@ -15,7 +15,7 @@ Open to work, focused and seriously committed to learning.
 With knowledge in:
 
 🌱 React
--Redux
+🌱 Redux
 -Typescript
 -Javascript
 -Sequelize
