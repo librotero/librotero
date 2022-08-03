@@ -27,7 +27,6 @@ With knowledge in:
 <p aling="center">Material-Design</p>
 <p aling="center">Sass</p>
 
-<p aling="center"> entre otras</p>
 
 
 🌱 I’m currently learning Advanced Full-Stack Development with JavaScript and TypeScript.
